@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\work\c++_projects\game\game\header.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\work\c++_projects\game\game\source.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'float', possible loss of data
+  game.vcxproj -> D:\work\C++_Projects\game\Debug\game.exe

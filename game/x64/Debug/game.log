@@ -1,0 +1,32 @@
+﻿  Source.cpp
+d:\work\c++_projects\game\game\header.h(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\work\c++_projects\game\game\header.h(35): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\work\c++_projects\game\game\header.h(55): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\work\c++_projects\game\game\header.h(59): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\work\c++_projects\game\game\source.cpp(64): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\work\c++_projects\game\game\header.h(47): warning C4715: 'defeat': not all control paths return a value
+  game.vcxproj -> D:\work\C++_Projects\game\x64\Debug\game.exe
